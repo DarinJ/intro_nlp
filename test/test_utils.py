@@ -1,5 +1,5 @@
 import unittest
-import utils
+from intro_nlp import utils
 class MyTestCase(unittest.TestCase):
     def test_multiply(self):
         self.assertEqual( utils.multiply(2,5), 10)

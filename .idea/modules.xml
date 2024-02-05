@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../intro_nlp/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../intro_nlp/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../intro_nlp/.idea/intro_nlp.iml" filepath="$PROJECT_DIR$/../intro_nlp/.idea/intro_nlp.iml" />
     </modules>
   </component>
 </project>

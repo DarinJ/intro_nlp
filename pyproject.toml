@@ -1,6 +1,6 @@
 [project]
 name = "intro_nlp"
-version = "2024.01.29"
+version = "2024.02.06"
 [tool.pytest.ini_options]
 pythonpath = [
   "src"
